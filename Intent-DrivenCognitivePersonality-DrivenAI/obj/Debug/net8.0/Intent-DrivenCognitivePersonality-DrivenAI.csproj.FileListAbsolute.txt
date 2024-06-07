@@ -1,0 +1,14 @@
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\bin\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.exe
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\bin\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.deps.json
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\bin\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.runtimeconfig.json
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\bin\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.dll
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\bin\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.pdb
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.dll
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\refint\Intent-DrivenCognitivePersonality-DrivenAI.dll
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.pdb
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\Intent-DrivenCognitivePersonality-DrivenAI.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\Intent-DrivenCognitivePersonality-DrivenAI\Intent-DrivenCognitivePersonality-DrivenAI\obj\Debug\net8.0\ref\Intent-DrivenCognitivePersonality-DrivenAI.dll
